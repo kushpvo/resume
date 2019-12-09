@@ -1,1 +1,3 @@
-# resume.kushanvora.com
+# Kushan Vora - Resume
+
+https://resume.kushanvora.com
